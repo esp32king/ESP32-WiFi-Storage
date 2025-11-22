@@ -111,6 +111,14 @@ VCC    | 3.3V
 ───────────────────────────────────
 ```
 
+### 🔐 Admin Panel Login
+
+```
+⚙️  Username : pkmkb
+🔑  Password : pkmkb1234
+```
+
+
 ## 🛠️ How to Use
 1. Install Required Libraries
 
