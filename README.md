@@ -166,8 +166,8 @@ Open:
 ## 🙌 Author / Credits
 ```
 Created by Krishna (@krishna_upx61)
-GitHub: https://github.com/esp32king
 ```
+GitHub: https://github.com/esp32king
 If you use this project, please give proper credit.
 Support the creator — this project took time and effort to build!
 
