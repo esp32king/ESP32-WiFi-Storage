@@ -180,4 +180,4 @@ You may modify and redistribute it, but credit must be given to the original aut
 ## 💬 Need Help?
 
 <br>Open an issue on GitHub or ask in discussions.</br>
-GitHub: https://github.com/esp32king
+GitHub: https://github.com/esp32king ❤️
