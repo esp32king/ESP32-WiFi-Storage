@@ -188,7 +188,7 @@ If You want more speed for streaming movie so use SD/MMC module
 
 ### SD/MMC Diagram
 ```
-microSD pad#  | signal  | connect to (ESP32 DevKit)
+microSD/MMC  | signal  | connect to (ESP32 DevKit)
 -----------------------------------------------
 [1] DAT2     | DAT2    | NC (not used in SPI)
 [2] DAT3     | DAT3/CS | ESP32 GPIO 5   (Chip Select)  <-- or any free GPIO
