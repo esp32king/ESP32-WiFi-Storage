@@ -182,9 +182,9 @@ You may modify and redistribute it, but credit must be given to the original aut
 ## 💬 Need Help?
 
 <br>Open an issue on GitHub or ask in discussions.</br>
-────────────────────────────────
+───────────────────────────
 GitHub: https://github.com/esp32king ❤️  
-────────────────────────────────
+───────────────────────────
 ## More Speed For Movie streaming
 
 If You want more speed for streaming movie so use SD/MMC module
