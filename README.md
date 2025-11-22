@@ -164,8 +164,10 @@ Open:
 
 
 ## 🙌 Author / Credits
-```
+
 Created by Krishna (@krishna_upx61)
+
+```
 GitHub: https://github.com/esp32king
 ```
 
@@ -180,7 +182,9 @@ You may modify and redistribute it, but credit must be given to the original aut
 ## 💬 Need Help?
 
 <br>Open an issue on GitHub or ask in discussions.</br>
-GitHub: https://github.com/esp32king ❤️
+──────────────────────────────────────────
+GitHub: https://github.com/esp32king ❤️  
+──────────────────────────────────────────
 ## More Speed For Movie streaming
 
 If You want more speed for streaming movie so use SD/MMC module
@@ -200,3 +204,4 @@ microSD/MMC  | signal  | connect to (ESP32 DevKit)
 [8] DAT1     | DAT1    | NC (not used in SPI)
 
 ```
+Thank You ❤️
