@@ -98,12 +98,19 @@ Connecting wires (SPI interface)
 
 ## 📌 SD Card SPI Pins
 SD Module	ESP32 Pin
-``CS	Auto-detected (GPIO 4 / 5 / 13 by code)
-MOSI	GPIO 23
-MISO	GPIO 19
-SCK	GPIO 18
-GND	GND
-VCC	3.3V``
+```
+───────────────────────────────────
+Pin    | ESP32 GPIO / Notes
+-------|------------------------------
+CS     | Auto-detected (GPIO 4 / 5 / 13 by code)
+MOSI   | GPIO 23
+MISO   | GPIO 19
+SCK    | GPIO 18
+GND    | GND
+VCC    | 3.3V
+───────────────────────────────────
+```
+
 ## 🛠️ How to Use
 1. Install Required Libraries
 
