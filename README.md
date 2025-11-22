@@ -23,13 +23,13 @@ The project automatically detects your SD card CS pin and mounts SD or SPIFFS ba
 ## 📌 Features
 
 - ✔️ WiFi Access Point (no internet required)
-- ✔️ File manager (upload / delete / list / download)
+- ✔️ Captive portal support
 - ✔️ SD + SPIFFS dual storage
 - ✔️ Auto SD-CS pin detection
 - ✔️ Secure login system
 - ✔️ Media preview (images, videos, audio)
 - ✔️ Mobile-optimized UI
-- ✔️ Captive portal support
+- ✔️ File manager (upload / delete / list / download)
 - ✔️ Fast AJAX listing
 - ✔️ Clean & modular code
 
