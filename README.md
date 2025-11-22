@@ -182,7 +182,8 @@ You may modify and redistribute it, but credit must be given to the original aut
 ## 💬 Need Help?
 
 <br>Open an issue on GitHub or ask in discussions.</br>
-<br>───────────────────────────</br>
+.
+
 GitHub: https://github.com/esp32king ❤️  
 
 ## More Speed For Movie streaming
