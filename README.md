@@ -145,15 +145,15 @@ The ESP32 automatically detects the SD CS pin.
 ## 4. Connect to WiFi
 
 Connect your phone or PC to:
-
+```
 SSID: WiFi Storage
 Password: Open/none
-
+```
 ## 5. Access the File Manager
 
 Open:
 
-http://192.168.4.1
+```http://192.168.4.1```
 
 ## 📸 Screenshots
 
