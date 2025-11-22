@@ -1,7 +1,4 @@
 # ESP32-WiFi-Storage
-esp32 webserver wifi storage with admin panel see files, write, upload, download
-<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/Esp-WiFi-Storage.jpg"></img>
-<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/wifi-storage-ss.jpg"></img>
 
 ESP32 Media Storage WiFi Portal
 
@@ -25,24 +22,25 @@ The project automatically detects your SD card CS pin and mounts SD or SPIFFS ba
 
 ## 📌 Features
 
-✔️ WiFi Access Point (no internet required)
-✔️ File manager (upload / delete / list / download)
-✔️ SD card + SPIFFS dual storage support
-✔️ Auto SD-CS pin detection
-✔️ Secure login system
-✔️ Media preview (images, videos, audio)
-✔️ Mobile-optimized UI
-✔️ Captive portal support
-✔️ AJAX-based fast file listing
-✔️ Clean & modular code
+- ✔️ WiFi Access Point (no internet required)
+- ✔️ File manager (upload / delete / list / download)
+- ✔️ SD + SPIFFS dual storage
+- ✔️ Auto SD-CS pin detection
+- ✔️ Secure login system
+- ✔️ Media preview (images, videos, audio)
+- ✔️ Mobile-optimized UI
+- ✔️ Captive portal support
+- ✔️ Fast AJAX listing
+- ✔️ Clean & modular code
+
 
 ## 📂 Project Structure
-``project/
+project/
 │
 ├── data/                 # HTML, CSS, JS files for SPIFFS (optional)
 ├── medi-storage-wifi.ino # Main ESP32 program
 │
-└── README.md             # You are here``
+└── README.md             # You are here
 
 🚀 How It Works
 ## 📡 1. Start WiFi Access Point
