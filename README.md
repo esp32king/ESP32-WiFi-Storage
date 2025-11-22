@@ -2,7 +2,7 @@
 
 ESP32 Media Storage WiFi Portal
 ```
-The screenshots are below.
+Screenshots are below.
 ```
 A simple and powerful ESP32-based web media storage system with SD card + SPIFFS support.
 
