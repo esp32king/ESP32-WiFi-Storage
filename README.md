@@ -36,6 +36,7 @@ The project automatically detects your SD card CS pin and mounts SD or SPIFFS ba
 
 ## 📂 Project Structure
 
+```
 ──────── PROJECT STRUCTURE ────────
 
 project/
@@ -46,6 +47,8 @@ project/
 └── README.md             # You are here
 
 ───────────────────────────────────
+```
+
 
 
 
