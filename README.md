@@ -35,12 +35,18 @@ The project automatically detects your SD card CS pin and mounts SD or SPIFFS ba
 
 
 ## 📂 Project Structure
+
+`──────── PROJECT STRUCTURE ────────`
+
 project/
 │
 ├── data/                 # HTML, CSS, JS files for SPIFFS (optional)
 ├── medi-storage-wifi.ino # Main ESP32 program
 │
 └── README.md             # You are here
+
+`───────────────────────────────────`
+
 
 🚀 How It Works
 ## 📡 1. Start WiFi Access Point
