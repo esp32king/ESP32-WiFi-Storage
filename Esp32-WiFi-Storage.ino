@@ -12,7 +12,7 @@
 
 
 const byte DNS_PORT = 53;
-const char* ssid = "KR$HNA 2.0";
+const char* ssid = "WiFi Storage";
 const char* password = "";
 
 DNSServer dnsServer;
