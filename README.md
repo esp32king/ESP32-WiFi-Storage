@@ -56,10 +56,10 @@ project/
 ## 📡 1. Start WiFi Access Point
 
 The ESP32 creates a hotspot:
-
+```
 SSID: WiFi Storage
 Password: Open/none
-
+```
 ## 🌐 2. Open the Web Portal
 
 Visit:
