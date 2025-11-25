@@ -192,8 +192,9 @@ GitHub: https://github.com/esp32king ❤️
 If You want more speed for streaming movie so use SD/MMC module
 <img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/MMC.jpg"></img>
 
-### SD/MMC Diagram
+### SD/MMC Diagram 
 ```
+
 microSD/MMC  | signal  | connect to (ESP32 DevKit)
 -----------------------------------------------
 [1] DAT2     | DAT2    | NC (not used in SPI)
