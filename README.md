@@ -22,6 +22,12 @@ Use a clean web UI optimized for mobile
 
 The project automatically detects your SD card CS pin and mounts SD or SPIFFS based on the selected storage.
 
+
+## 📸 Screenshots
+
+<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/Esp-WiFi-Storage.jpg"></img>
+<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/wifi-storage-ss.jpg"></img>
+
 ## 📌 Features
 
 - ✔️ WiFi Access Point (no internet required)
@@ -157,12 +163,6 @@ Password: Open/none
 Open:
 
 ```http://192.168.4.1```
-
-## 📸 Screenshots
-
-<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/Esp-WiFi-Storage.jpg"></img>
-<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/wifi-storage-ss.jpg"></img>
-
 
 ## 🙌 Author / Credits
 
