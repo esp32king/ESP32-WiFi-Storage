@@ -1,6 +1,6 @@
 # ESP32-WiFi-Storage  OPEN SOURCE
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&lines=Initializing+System....;%5B%2B%5D+Hello+World;%5B%2B%5D+This+is+Kaalu;Access+Granted" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&lines=%22+Initializing+System....%22;%5B%2B%5D+Hello+World;%5B%2B%5D+This+is+Kaalu;Access+Granted" alt="Typing SVG" />
 </p>
 
 ESP32 Media Storage WiFi Portal  
