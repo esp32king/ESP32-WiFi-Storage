@@ -9,6 +9,12 @@ Screenshots are below.
 ```
 A simple and powerful ESP32-based web media storage system with SD card + SPIFFS support.
 
+## 📸 Screenshots
+
+<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/Esp-WiFi-Storage.jpg"></img>
+<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/wifi-storage-ss.jpg"></img>
+
+
 ## ⭐ Overview
 
 This project turns your ESP32 into a WiFi-based media storage portal, allowing you to:
@@ -25,11 +31,6 @@ Use a clean web UI optimized for mobile
 
 The project automatically detects your SD card CS pin and mounts SD or SPIFFS based on the selected storage.
 
-
-## 📸 Screenshots
-
-<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/Esp-WiFi-Storage.jpg"></img>
-<img src="https://raw.githubusercontent.com/esp32king/ESP32-WiFi-Storage/refs/heads/main/Files/wifi-storage-ss.jpg"></img>
 
 ## 📌 Features
 
